@@ -62,9 +62,6 @@ Abertura 7
 Abertura 8
 ```
 
-
-
-
 ```
 C:\Users\Douglas\WebCrawler>python main.py Marília Mendonça
 Digite a quantidade de músicas que deseja listar, ele precisa ser um número inte
@@ -127,7 +124,6 @@ Love à Queima Roupa
 Matriz Ou Filial (Com Fátima Leão)
 ```
 
-
 ```
 C:\Users\Douglas\WebCrawler>python main.py Banda.txt
 Digite a quantidade de músicas que deseja listar, ele precisa ser um número inte
@@ -138,4 +134,17 @@ iro.
 A Casa ao Lado
 A Culpa é Sua
 A Dois Graus
+```
+
+```
+C:\Users\Douglas\WebCrawler>python main.py
+Insira o nome da banda ou o nome do arquivo com a extenção .txt:
+teste.txt
+Digite a quantidade de músicas que deseja listar, ele precisa ser um número inte
+iro.
+4
+Amiga Até o Fim
+Anjo da Internet
+Aquarela
+Bom Dia
 ```
